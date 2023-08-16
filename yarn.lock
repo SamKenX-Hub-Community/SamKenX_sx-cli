@@ -517,11 +517,11 @@
   integrity sha512-5GeFgqMiDlqGT8EdORadp1ntGF0qzWZLmEY7Wbp/yVhN7/B3NNzCxujuI77ktlyG81N3CUZP8cZe3ZAQ/cW10w==
 
 "@openzeppelin/contracts@^4.3.2", "@openzeppelin/contracts@^4.7.3":
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.8.0.tgz#6854c37df205dd2c056bdfa1b853f5d732109109"
-  integrity sha512-AGuwhRRL+NaKx73WKRNzeCxOCOCxpaqF+kp8TJ89QzAipSwZy/NoflkWaL9bywXFRhIzXt8j38sfF7KBKCPWLw==
+  version "4.9.3"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.9.3.tgz#00d7a8cf35a475b160b3f0293a6403c511099364"
+  integrity sha512-He3LieZ1pP2TNt5JbkPA4PNT9WC3gOTOlDcFGJW4Le4QKqwmiNJCRt44APfxMxvq7OugU/cqYuPcSBzOw38DAg==
 
-"@orland0x/sx-core@^0.1.0-beta.1":
+"@orland0x/sx-core@0.1.0-beta.1":
   version "0.1.0-beta.1"
   resolved "https://registry.yarnpkg.com/@orland0x/sx-core/-/sx-core-0.1.0-beta.1.tgz#38605826846d8204ff07a5a17e8e96f8cce56b2c"
   integrity sha512-CiUv2xOITWUQ3T4mO15m27MzdCA0B2RrTqXlBnUWoA4m9qjXNqOSgNZfVMdqOmlzTDo5n64JLOxcOT1qxEPOwA==
